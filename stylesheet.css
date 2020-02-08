@@ -24,19 +24,19 @@ body {
 .user-box img {
 	border-radius: 50%;
 	width: 350px;
-	border: 2px solid #6caed5;
+	/*border: 2px solid #6caed5;*/
 }
 
 .user-box h1 {
 	color: #000000;
 	font-weight: bold;
-	margin: 10px;
+	margin: 15px;
 }
 
 .user-box p {
 	color: #000000;
 	font-weight: bold;
-	margin: 10px;
+	margin: 15px;
 }
 
 .scroll-btn {
@@ -67,7 +67,7 @@ body {
 /*-------------About---------------*/
 .about {
 	padding-top: 100px;
-	margin-bottom: -130px;
+	margin-bottom: -80px;
 }
 
 .profile-img {
@@ -313,23 +313,3 @@ body {
 	width: 80px;
 	transition: 1s;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
